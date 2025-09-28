@@ -27,9 +27,12 @@ To insert data in the table, td tags are used.
 Table headings and table data are entered row-wise.
 
 7. Styling in HTML(styling.html)
-   In this document, I have used all types of styling, i.e., 
+   In this document, I have used all types of styling, i.e.,
+   
 (i) Inline styling: In this styling, style tag is written inside that tag itself like h1 or p where you want to style, and styling is reflected in that part only.
+
 (ii) Internal styling: In this type, style tag is written inside head tag and every part such as h1, body or paragraph is given its respective properties inside it.
+
 (iii) External styling: In this, a separate CSS file is created and all styling properties are written in it. Then this file is linked to that HTML document where you want to use the styles by using link tag with rel and href properties inside it.
 
 Priority of inline styling>internal styling.
