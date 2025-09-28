@@ -1,6 +1,6 @@
 Web Designing: HTML
 1. Basic HTML document (basic.html)
-   In this, basic tags like <html>, <head>, <body>, <title>, heading tags and <p> for paragraph have been used.
+   In this, basic tags like html, head, body, title, heading tags and <p> for paragraph have been used.
 
 2. Practice document (Practice1.html)
    In this, I have practiced above mentioned basic tags and created a document which gives a brief introduction to Python language.
